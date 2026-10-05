@@ -5,6 +5,6 @@
  "sha256": "de452e9bbe25cbf9753212bd3e79245b4e285a872f089a3535e18a9371c8f217",
  "url": "https://github.com/dov-cyber/authentico-maps-releases/releases/tag/v1.21.0",
  "published_at": "2026-10-05T09:41:43Z",
- "source_commit": "d7700982f23662765d09c6061522ab8ade2202bb",
+ "source_commit": "ca127734628607e5b99987c407a13c2cbe376dc4",
  "release_record": "runtime/RELEASE-1.21.0.json"
 }
