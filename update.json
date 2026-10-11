@@ -1,10 +1,10 @@
 {
  "schema": "authentico-maps-update/1.0.0",
- "version": "1.24.0",
- "package": "https://github.com/dov-cyber/authentico-maps-releases/releases/download/v1.24.0/Authentico-Maps-1.24.0.zip",
- "sha256": "29dc7301e15f2c11ca95fcff65934a3f6e3f32c180aa0439b2d3c03a15ce9f81",
- "url": "https://github.com/dov-cyber/authentico-maps-releases/releases/tag/v1.24.0",
- "published_at": "2026-10-11T06:15:28Z",
- "source_commit": "e481c7b0a245895fbf96bcfb90eff5e8fcfeb06d",
- "release_record": "runtime/RELEASE-1.24.0.json"
+ "version": "1.24.1",
+ "package": "https://github.com/dov-cyber/authentico-maps-releases/releases/download/v1.24.1/Authentico-Maps-1.24.1.zip",
+ "sha256": "1ac19c40bbe106de09363025592b9f78401135b56c90f517203c1640e72f006f",
+ "url": "https://github.com/dov-cyber/authentico-maps-releases/releases/tag/v1.24.1",
+ "published_at": "2026-10-11T07:50:59Z",
+ "source_commit": "746feda5f1c84f2d3e92f8396a60e5f6233f23f7",
+ "release_record": "runtime/RELEASE-1.24.1.json"
 }
